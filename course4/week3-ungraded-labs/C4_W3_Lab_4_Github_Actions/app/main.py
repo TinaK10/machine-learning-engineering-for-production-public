@@ -4,7 +4,7 @@ from typing import List
 from fastapi import FastAPI
 from pydantic import BaseModel, conlist
 
-#Comment to trigger GitHub Action C4_W3_Lab_4_Github_Actions
+#Comment to trigger GitHub Action C4_W3_Lab_4_Github_Actions -- now with updated workflow file
 
 app = FastAPI(title="Predicting Wine Class with batching")
 
